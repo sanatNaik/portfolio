@@ -12,7 +12,7 @@ const Projects = () => {
               projName="LegalMind – RAG based AI Chatbot"
               description="Developed a legal AI chatbot that answers queries based on Indian law using Retrieval-Augmented Generation (RAG)."
               techstack="ChromaDB, Sentence Transformers, OpenRouter API, Langchain, Gradio, Python"
-              giturl="https://github.com/sanatNaik/project-legal-ai"
+              giturl="https://github.com/sanatNaik/project-legal_ai.git"
             />
             <ProjectCard
               projName="SumItUp – AI Summarization Tool"
